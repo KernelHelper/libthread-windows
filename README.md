@@ -1,0 +1,2 @@
+# libthread-windows
+libthread-windows
